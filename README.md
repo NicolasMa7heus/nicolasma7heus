@@ -6,7 +6,7 @@ Já aprendi lógica de programação, Git & GitHub para controle de versões, e 
 
 Busco evoluir constantemente e aplicar na prática tudo o que venho aprendendo.
 
-## Estou aprendendo atualmente 
+## Estou Aprendendo Atualmente
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 
